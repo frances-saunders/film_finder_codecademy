@@ -1,3 +1,6 @@
+//This script fulfills the project reqs for "Film Finder" in Codecademy
+//This script is to be ran in conjunction with script.js, style.css, & index.html
+
 // Populate dropdown menu with all the available genres
 const populateGenreDropdown = (genres) => {
     const select = document.getElementById('genres')
