@@ -1,4 +1,4 @@
-//This script fulfills the project reqs for "Kelvin Weather" in Codecademy
+//This script fulfills the project reqs for "Film Finder" in Codecademy
 //This script is to be ran in conjunction with helpers.js, style.css, and index.html
 
 const tmdbKey = "";
